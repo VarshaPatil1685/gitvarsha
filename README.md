@@ -1,1 +1,1 @@
-# gitvarsha  this is about software tools and appliances class
+# gitvarsha  this is about software tools and applications class
